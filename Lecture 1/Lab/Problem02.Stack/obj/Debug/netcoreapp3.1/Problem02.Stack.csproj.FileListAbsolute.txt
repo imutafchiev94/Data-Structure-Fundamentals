@@ -1,0 +1,9 @@
+D:\.Net Developement\Data Structures\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.deps.json
+D:\.Net Developement\Data Structures\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.dll
+D:\.Net Developement\Data Structures\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.pdb
+D:\.Net Developement\Data Structures\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csprojAssemblyReference.cache
+D:\.Net Developement\Data Structures\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Data Structures\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfoInputs.cache
+D:\.Net Developement\Data Structures\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfo.cs
+D:\.Net Developement\Data Structures\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.dll
+D:\.Net Developement\Data Structures\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.pdb

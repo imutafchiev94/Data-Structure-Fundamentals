@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nyq3/L4rNTU+AeAeiE0bACSBRojDD2UwPKTMtCzO3/kP4wqq7KpnLD+gCO4REpQi16rmJEi10bSHdIu9ZyxD9A==",
+  "success": true,
+  "projectFilePath": "D:\\.Net Developement\\Data Structures\\Lecture 3\\Lab\\04.BinarySearchTree\\04.BinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

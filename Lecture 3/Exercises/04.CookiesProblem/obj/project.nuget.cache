@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "77NYt3jGGya81dDp/mKoIICokPJcxsKLkjdF9O04lWVmG1Ovjj8eeyBLCDWEoix6B1kilboUbfmBThHyzcOPyA==",
+  "success": true,
+  "projectFilePath": "D:\\.Net Developement\\Data Structures\\Lecture 3\\Exercises\\04.CookiesProblem\\04.CookiesProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

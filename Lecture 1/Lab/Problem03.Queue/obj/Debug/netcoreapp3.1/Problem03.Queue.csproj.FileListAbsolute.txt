@@ -1,0 +1,9 @@
+D:\.Net Developement\Data Structures\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.deps.json
+D:\.Net Developement\Data Structures\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.dll
+D:\.Net Developement\Data Structures\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.pdb
+D:\.Net Developement\Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.csprojAssemblyReference.cache
+D:\.Net Developement\Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfoInputs.cache
+D:\.Net Developement\Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfo.cs
+D:\.Net Developement\Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.dll
+D:\.Net Developement\Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.pdb

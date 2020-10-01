@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C18UcphKo0tYrfAYxsb7yxQUjtJI6zlMTit7Kh5wshjOeYOch/ny5uXTIaKAPO2PMYkYRZC0j86YfHnr0N7CIg==",
+  "success": true,
+  "projectFilePath": "D:\\.Net Developement\\Data Structures\\Lecture 3\\Exercises\\05.TopView\\05.TopView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

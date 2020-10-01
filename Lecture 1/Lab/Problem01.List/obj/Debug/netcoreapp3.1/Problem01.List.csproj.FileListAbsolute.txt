@@ -1,0 +1,9 @@
+D:\.Net Developement\Data Structures\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.deps.json
+D:\.Net Developement\Data Structures\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.dll
+D:\.Net Developement\Data Structures\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.pdb
+D:\.Net Developement\Data Structures\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csprojAssemblyReference.cache
+D:\.Net Developement\Data Structures\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Data Structures\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfoInputs.cache
+D:\.Net Developement\Data Structures\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfo.cs
+D:\.Net Developement\Data Structures\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.dll
+D:\.Net Developement\Data Structures\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.pdb
